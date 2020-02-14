@@ -1,0 +1,15 @@
+applicationinsights==0.11.9
+backports.csv==1.0.7
+cli-helpers==0.2.3
+Click==7.0
+configobj==5.0.6
+enum34==1.1.6
+future==0.18.2
+humanize==1.0.0
+mssql-cli==0.18.0
+prompt-toolkit==2.0.10
+Pygments==2.5.2
+six==1.14.0
+sqlparse==0.2.4
+terminaltables==3.1.0
+wcwidth==0.1.8
