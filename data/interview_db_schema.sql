@@ -34,8 +34,6 @@ create table [logex].test_prices(
 	valid_to date
 )
 
-create index test_prices_activity_id_idx ON logex.test_prices (activity_id);
-
 -------------------------------------------------------------------------------------------------
 create table logex.test_activities(
 	id int identity(1,1) not null,
