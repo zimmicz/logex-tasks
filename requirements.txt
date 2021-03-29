@@ -8,7 +8,7 @@ future==0.18.2
 humanize==1.0.0
 mssql-cli==0.18.0
 prompt-toolkit==2.0.10
-Pygments==2.5.2
+Pygments==2.7.4
 six==1.14.0
 sqlparse==0.2.4
 terminaltables==3.1.0
